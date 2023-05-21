@@ -11,5 +11,5 @@ I like WebSite, JavaScript, Java, C++, Rust and Unity3D
 - 💬 Ask me about **PROGRAMMING** and **ANYTHING ELSE**
 - 📫 How to reach me: **📮EMAIL**: *3185835784@qq.com* OR **✉️WECHAT**: *codesx*
 - 😄 Pronouns: Hello World
-- ⚡ Fun fact: My english is very poor😭
-
+- ⚡ Fun fact: My English is very poor😭
+- 🫵 Target: My final target is have a first issue 🙏
